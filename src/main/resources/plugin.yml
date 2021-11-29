@@ -1,0 +1,21 @@
+name: AdvancedElytras
+version: '${project.version}'
+main: me.shreyasayyengar.advancedelytras.AdvancedElytrasPlugin
+api-version: 1.17
+prefix: AE
+author: Shreyas Ayyengar
+description: A fun way to spice up elytras in minecraft
+
+commands:
+  fly:
+  redeem:
+  flytime:
+  elytraadmin:
+    aliases: [ adel, ea ]
+
+permissions:
+  elytra.fly:
+  elytra.redeem:
+  elytra.flytime:
+  elytra.admin:
+
